@@ -1,0 +1,7 @@
+msg=input("Enter your message:")
+msg=msg.replace("happy","😊")
+msg=msg.replace("sad","😔")
+msg=msg.replace("calm","😌")
+msg=msg.replace("smile","😁")
+msg=msg.replace("confused","🤯")
+print(msg)
