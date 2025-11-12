@@ -1,33 +1,32 @@
-<!-- ---------------------------------------------------------------------- -->
-<!--                     🌟 PYTHON × ARTIFICIAL INTELLIGENCE × ML           -->
-<!-- ---------------------------------------------------------------------- -->
-
-<h1 align="center">🧠 PYTHON × ARTIFICIAL INTELLIGENCE × MACHINE LEARNING</h1>
+ <h1 align="center">🐍✨ PYTHON • AI • ML ✨🤖</h1>
 
 <p align="center">
-  <em>Exploring the logic behind intelligence — one line of code at a time.</em>  
-</p>
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=yellow"></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange?style=for-the-badge&logo=scikitlearn"></a>
-  <a href="https://github.com/srivastavanandani190-lang/PYTHON-AI-ML-"><img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=💡+Learning+Python+Daily;🚀+Exploring+AI+and+ML+Concepts;🔥+Building+Cool+Projects;🌱+Growing+as+a+Developer!" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌍 Introduction
+## 🧠 About This Repository  
+Hey there! 👋 Welcome to my **AI & ML playground** built with the power of **Python 🐍**.  
+Here you’ll find:  
+- 💻 Hands-on code examples  
+- 🧩 Machine Learning experiments  
+- 🤖 AI algorithms made simple  
+- 📊 Data visualization & analysis demos  
 
-This repository, **PYTHON-AI-ML**, documents my deep dive into the world of **Python programming, Artificial Intelligence, and Machine Learning**.  
-It started as a small learning notebook but has evolved into a personal exploration space — where logic meets creativity.
-
-Each folder, each script, and each experiment here represents a stepping stone towards mastering how machines learn, predict, and adapt.
+Each file in this repo is part of my journey to becoming better at **Python**, **AI**, and **Machine Learning** 🚀  
 
 ---
 
-## 🧩 Repository Structure
+## ⚙️ Tech Stack  
+| 💎 Category | 🔧 Tools / Libraries |
+|--------------|----------------------|
+| **Programming** | Python 🐍 |
+| **ML / AI** | scikit-learn 🤖, TensorFlow 🔥, Keras 💥 |
+| **Data Handling** | Pandas 🐼, NumPy 🧮 |
+| **Visualization** | Matplotlib 📈, Seaborn 🌈 |
+| **Version Control** | GitHub 🧭 |
 
+---
 
-
-
-
+## 🎬 Animated Journey  
