@@ -33,6 +33,11 @@ print(color[mid-1:mid+2])
 #method
 sen=input("Enter Statement:")
 print(sen.lower())
+print(sen.upper())
+print(sen.title())
+print(sen.capitalize())
+print(sen.find('n'))
+print(sen.count('a'))
 print(sen.replace(" ","_"))
 #formatted string
 n="Nandani"

@@ -18,6 +18,11 @@ a=int(input("Enter a:"))
 b=int(input("Enter b:"))
 sum=a+b
 print("SUM of a and b:",sum)
+#implicit typeconversion
+w=45
+v=56.3
+print("\nsum of w and v",v+w)
+#explicit typeconversion
 x=input("Enter value of x:")
 y=float(x)
 print(x,type(x))
