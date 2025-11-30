@@ -1,61 +1,67 @@
 <h1 align="center">🐍✨ PYTHON • AI • ML ✨🤖</h1>
 
-<!-- Typing SVG Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&height=120&lines=💡+Learning+Python+Daily;🚀+Exploring+AI+and+ML+Concepts;🔥+Building+Cool+Projects;🌱+Growing+as+a+Developer!"
-    alt="Typing Animation"
+    alt="Animated Typing"
   />
 </p>
 
-<!-- Animated Banner -->
+<!-- FULLY WORKING BANNER -->
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" 
+  <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/techwave.gif" 
        alt="Banner" width="100%" />
 </p>
 
-<!-- Animated Python + AI Logos -->
+<!-- ANIMATED PYTHON + AI LOGOS (FIXED URLs) -->
 <p align="center">
+
+  <!-- Python Logo -->
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" 
-       width="120" style="margin-right:20px;" />
-  <img src="https://img.icons8.com/?size=200&id=48488&format=gif" 
-       width="120" style="margin-right:20px;" />
-  <img src="https://img.icons8.com/?size=200&id=PTbAfTjIu1uE&format=gif" 
+       width="120" style="margin-right: 20px;" />
+
+  <!-- AI Brain GIF -->
+  <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/brain-1.gif" 
+       width="120" style="margin-right: 20px;" />
+
+  <!-- Machine Learning GIF -->
+  <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/ml.gif" 
        width="120" />
 </p>
 
 ---
 
 ## 🧠 About This Repository  
-Welcome to my **AI & Machine Learning playground** built using **Python** 🐍.  
-This repository contains:
+Welcome to my **AI & Machine Learning playground**, built using **Python** 🐍.  
+This repo contains:
 
 - 💻 Python mini-projects  
-- 🧠 Machine learning models  
-- 🤖 AI experiments  
+- 🤖 AI scripts  
+- 🧠 ML models  
 - 📈 Visualization notebooks  
-- 🔍 Data preprocessing + EDA demos  
-- 📝 Beginner-friendly explanations  
+- 🔍 Data preprocessing & EDA demos  
 
-Every file here is a step forward in my journey of mastering **AI, ML & Python development**.
+Every file represents one more step in my journey into **AI & ML** 🚀  
 
 ---
 
 ## ⚙️ Tech Stack  
+
 | 💎 Category | 🔧 Tools / Libraries |
 |------------|----------------------|
 | **Core Language** | Python 🐍 |
-| **Machine Learning** | scikit-learn 🤖, TensorFlow 🔥, Keras 💥 |
-| **Data Handling** | Pandas 🐼, NumPy 🧮 |
+| **ML Frameworks** | scikit-learn 🤖, TensorFlow 🔥, Keras 💥 |
+| **Data Handling** | Pandas 🐼, NumPy 🔢 |
 | **Visualization** | Matplotlib 📈, Seaborn 🌈, Plotly 📊 |
-| **Environment** | Jupyter Notebook 📓, Google Colab ☁️ |
+| **Notebook Environment** | Jupyter 📓, Colab ☁️ |
 | **Version Control** | GitHub 🧭 |
 
 ---
 
 ## 🎬 Animated Journey  
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/neon-line.gif?raw=true" width="600">
+  <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/neon-line.gif" width="600" />
 </p>
 
 ---
@@ -66,10 +72,10 @@ Every file here is a step forward in my journey of mastering **AI, ML & Python d
 
 | Project | Preview | Description |
 |--------|---------|-------------|
-| 🧠 ML Classifier | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" width="130"> | Implementations of ML algorithms (SVM, KNN, Decision Trees, Logistic Regression). |
-| 📊 Data EDA Notebook | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" width="130"> | Data cleaning, exploration, visualization, correlation maps. |
-| 🤖 AI Demo Scripts | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" width="130"> | Simple AI concepts: pattern learning, prediction logic. |
-| 📝 Python Automation | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="130"> | Basic automation scripts (file handling, converters). |
+| 🧠 ML Classifier | <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/brain-2.gif" width="140"> | ML algorithms (KNN, SVM, Logistic Regression, Trees). |
+| 📊 EDA Notebook | <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/stats.gif" width="140"> | Data cleaning, correlations, distributions, visualizations. |
+| 🤖 AI Demo | <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/robot.gif" width="140"> | Basic AI logic, simulations & learning behavior. |
+| 📝 Python Automation | <img src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/code.gif" width="140"> | File automation, converters, tools. |
 
 </div>
 
