@@ -1,14 +1,13 @@
 # 🎶 My Music Library 🎸
 > Buy, Rent, and Manage Musical Instruments — Easy, Fast & Fun!
-
 <!-- Main Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&color=00C8FF,00FFD1&center=true&vCenter=true&lines=%F0%9F%8E%B5+Welcome+to+My+Music+Library!;%F0%9F%8E%B9+Buy,+Rent+or+Manage+Musical+Instruments+%F0%9F%8E%B8+%F0%9F%8E%81" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&color=00C8FF,00FFD1&center=true&vCenter=true&lines=%F0%9F%8E%B5+Welcome+to+My+Music+Library!;🎹+Buy,+Rent+or+Manage+Musical+Instruments+%F0%9F%8E%B8+%F0%9F%8E%81" alt="Typing SVG"/>
 </p>
 
 <!-- Secondary Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=FF6F61,FFB347&center=true&vCenter=true&lines=%F0%9F%8E%B9+Track+Issuing+and+Returning+of+Instruments;%E2%9C%A8+Real-Time+Updates+and+Reports;%F0%9F%8E%B5+Prevent+Loss+and+Mismanagement" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=FF6F61,FFB347&center=true&vCenter=true&lines=🎵+Track+Issuing+and+Returning+of+Instruments;✨+Real-Time+Updates+and+Reports;🎶+Prevent+Loss+and+Mismanagement" alt="Typing SVG"/>
 </p>
 
 ---
