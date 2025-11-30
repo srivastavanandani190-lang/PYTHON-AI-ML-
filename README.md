@@ -1,10 +1,8 @@
 # 🎶 My Music Library 🎸  
 > Buy or Rent Musical Instruments — Easy, Fast & Fun!  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=00C8FF&center=true&vCenter=true&lines=Welcome+to+My+Music+Library!;Buy+or+Rent+Your+Dream+Instruments%F0%9F%8E%B9%F0%9F%8E%B8%F0%9F%8E%81" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C8FF&center=true&vCenter=true&lines=🎵+Welcome+to+My+Music+Library!;Buy+or+Rent+Your+Dream+Instruments+🎹🎸🥁" alt="Typing SVG"/>
 </p>
-
 
 ## ✨ What is My Music Library  
 
