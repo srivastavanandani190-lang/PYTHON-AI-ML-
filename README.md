@@ -1,13 +1,14 @@
 # 🎶 My Music Library 🎸
 > Buy or Rent Musical Instruments — Easy, Fast & Fun!
 <!-- Main Animated Banner -->
+ <!-- Main Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=007FFF&center=true&vCenter=true&duration=3000&lines=%F0%9F%8E%B5+Welcome+to+My+Music+Library!;Buy+or+Rent+Your+Dream+Instruments+%F0%9F%8E%B9+%F0%9F%8E%B8+%F0%9F%8E%81" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&color=00C8FF,00FFD1&center=true&vCenter=true&lines=%F0%9F%8E%B5+Welcome+to+My+Music+Library!;%F0%9F%8E%B9+Buy+or+Rent+Your+Dream+Instruments+%F0%9F%8E%B8+%F0%9F%8E%81" alt="Typing SVG"/>
 </p>
 
 <!-- Secondary Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=FF6F61&center=true&vCenter=true&duration=3000&lines=%F0%9F%8E%B9+Guitars,+Pianos,+Drums+and+More!;%E2%9C%A8+Explore+Your+Favorite+Instruments+Today%21" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF6F61,FFB347&center=true&vCenter=true&lines=%F0%9F%8E%B9+Guitars,+Pianos,+Drums+and+More!;%E2%9C%A8+Explore+Your+Favorite+Instruments+Today!;%F0%9F%8E%B5+Start+Your+Musical+Journey+Now!" alt="Typing SVG"/>
 </p>
 
 ---
