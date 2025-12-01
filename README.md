@@ -1,11 +1,11 @@
 <h1 align="center">🐍✨ PYTHON • AI • ML ✨🤖</h1>
-
 <!-- Typing Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=aqua&center=true&vCenter=true&width=900&height=120&lines=Learning+Python+Daily;Exploring+AI+and+ML+Concepts;Building+Cool+Projects;Growing+as+a+Developer!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=120&lines=Learning+Python+Daily;Exploring+AI+and+ML+Concepts;Building+Cool+Projects;Growing+as+a+Developer!"
   />
 </p>
+
  
 
  
