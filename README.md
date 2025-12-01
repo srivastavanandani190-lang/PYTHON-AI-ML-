@@ -4,10 +4,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=900&height=120&lines=Learning+Python+Daily;Exploring+AI+and+ML+Concepts;Building+Cool+Projects;Growing+as+a+Developer!"
   />
-  <div align="center">
-  
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-
 </p>
 
 
