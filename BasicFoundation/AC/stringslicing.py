@@ -1,0 +1,13 @@
+fruit="MANGO"
+mangolen=len(fruit)
+print(mangolen)
+print(fruit[0:5])
+print(fruit[0:4])
+print(fruit[0:])
+print(fruit[:5])
+print(fruit[:])
+print(fruit[1:4])
+print(fruit[0:-3])
+print(fruit[-3:-1])
+name="Harry"
+print(name[-4:-2])
